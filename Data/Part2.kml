@@ -1,0 +1,2085 @@
+<?xml version="1.0"?>
+<kml>
+  <Document>
+    <Placemark id="5">
+      <name>AFGHANISTAN</name>
+      <description>AFGHANISTAN
+ population_2016: 34656032
+ population_2017: 35530081
+ growth: 2.52206888543962</description>
+      <Point>
+        <coordinates>65,33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="8">
+      <name>ALBANIA</name>
+      <description>ALBANIA
+ population_2016: 2926348
+ population_2017: 2930187
+ growth: 0.131187404915623</description>
+      <Point>
+        <coordinates>20,41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="6">
+      <name>ALGERIA</name>
+      <description>ALGERIA
+ population_2016: 40606052
+ population_2017: 41318142
+ growth: 1.75365484928207</description>
+      <Point>
+        <coordinates>3,28,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="12">
+      <name>AMERICAN SAMOA</name>
+      <description>AMERICAN SAMOA
+ population_2016: 55599
+ population_2017: 55641
+ growth: 0.075540926995088</description>
+      <Point>
+        <coordinates>-170,-14.3333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="10">
+      <name>ANDORRA</name>
+      <description>ANDORRA
+ population_2016: 77281
+ population_2017: 76965
+ growth: -0.408897400395958</description>
+      <Point>
+        <coordinates>1.5,42.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="11">
+      <name>ANGOLA</name>
+      <description>ANGOLA
+ population_2016: 28813463
+ population_2017: 29784193
+ growth: 3.36901538006729</description>
+      <Point>
+        <coordinates>18.5,-12.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="17">
+      <name>ANGUILLA</name>
+      <description>ANGUILLA
+ population_2016: 14764
+ population_2017: 14909
+ growth: 0.982118667027909</description>
+      <Point>
+        <coordinates>-63.1667,18.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="3">
+      <name>ANTIGUA AND BARBUDA</name>
+      <description>ANTIGUA AND BARBUDA
+ population_2016: 100963
+ population_2017: 102012
+ growth: 1.03899448312748</description>
+      <Point>
+        <coordinates>-61.8,17.05,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="13">
+      <name>ARGENTINA</name>
+      <description>ARGENTINA
+ population_2016: 43847430
+ population_2017: 44271041
+ growth: 0.966102232217492</description>
+      <Point>
+        <coordinates>-64,-34,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="9">
+      <name>ARMENIA</name>
+      <description>ARMENIA
+ population_2016: 2924816
+ population_2017: 2930450
+ growth: 0.192627502037745</description>
+      <Point>
+        <coordinates>45,40,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="2">
+      <name>ARUBA</name>
+      <description>ARUBA
+ population_2016: 104822
+ population_2017: 105264
+ growth: 0.421667207265641</description>
+      <Point>
+        <coordinates>-69.9667,12.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="14">
+      <name>AUSTRALIA</name>
+      <description>AUSTRALIA
+ population_2016: 24125848
+ population_2017: 24450561
+ growth: 1.34591331256004</description>
+      <Point>
+        <coordinates>133,-27,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="16">
+      <name>AUSTRIA</name>
+      <description>AUSTRIA
+ population_2016: 8712137
+ population_2017: 8735453
+ growth: 0.267626645448749</description>
+      <Point>
+        <coordinates>13.3333,47.3333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="7">
+      <name>AZERBAIJAN</name>
+      <description>AZERBAIJAN
+ population_2016: 9725376
+ population_2017: 9827589
+ growth: 1.05099278423786</description>
+      <Point>
+        <coordinates>47.5,40.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="19">
+      <name>BAHRAIN</name>
+      <description>BAHRAIN
+ population_2016: 1425171
+ population_2017: 1492584
+ growth: 4.73016922179865</description>
+      <Point>
+        <coordinates>50.55,26,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="25">
+      <name>BANGLADESH</name>
+      <description>BANGLADESH
+ population_2016: 162951560
+ population_2017: 164669751
+ growth: 1.05441825779391</description>
+      <Point>
+        <coordinates>90,24,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="20">
+      <name>BARBADOS</name>
+      <description>BARBADOS
+ population_2016: 284996
+ population_2017: 285719
+ growth: 0.253687771056432</description>
+      <Point>
+        <coordinates>-59.5333,13.1667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="31">
+      <name>BELARUS</name>
+      <description>BELARUS
+ population_2016: 9480042
+ population_2017: 9468338
+ growth: -0.123459368639933</description>
+      <Point>
+        <coordinates>28,53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="23">
+      <name>BELGIUM</name>
+      <description>BELGIUM
+ population_2016: 11358379
+ population_2017: 11429336
+ growth: 0.62471062111944</description>
+      <Point>
+        <coordinates>4,50.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="26">
+      <name>BELIZE</name>
+      <description>BELIZE
+ population_2016: 366954
+ population_2017: 374681
+ growth: 2.10571352267586</description>
+      <Point>
+        <coordinates>-88.75,17.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="30">
+      <name>BENIN</name>
+      <description>BENIN
+ population_2016: 10872298
+ population_2017: 11175692
+ growth: 2.79052321781468</description>
+      <Point>
+        <coordinates>2.25,9.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="22">
+      <name>BERMUDA</name>
+      <description>BERMUDA
+ population_2016: 61666
+ population_2017: 61349
+ growth: -0.514059611455264</description>
+      <Point>
+        <coordinates>-64.75,32.3333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="36">
+      <name>BHUTAN</name>
+      <description>BHUTAN
+ population_2016: 797765
+ population_2017: 807610
+ growth: 1.23407269057931</description>
+      <Point>
+        <coordinates>90.5,27.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="28">
+      <name>BOLIVIA</name>
+      <description>BOLIVIA
+ population_2016: 10887882
+ population_2017: 11051600
+ growth: 1.50367169666239</description>
+      <Point>
+        <coordinates>-65,-17,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="27">
+      <name>BOSNIA AND HERZEGOVINA</name>
+      <description>BOSNIA AND HERZEGOVINA
+ population_2016: 3516816
+ population_2017: 3507017
+ growth: -0.278632717776539</description>
+      <Point>
+        <coordinates>18,44,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="21">
+      <name>BOTSWANA</name>
+      <description>BOTSWANA
+ population_2016: 2250260
+ population_2017: 2291661
+ growth: 1.83983184165386</description>
+      <Point>
+        <coordinates>24,-22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="34">
+      <name>BRAZIL</name>
+      <description>BRAZIL
+ population_2016: 207652865
+ population_2017: 209288278
+ growth: 0.787570641031121</description>
+      <Point>
+        <coordinates>-55,-10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="257">
+      <name>BRITISH VIRGIN ISLANDS</name>
+      <description>BRITISH VIRGIN ISLANDS
+ population_2016: 30661
+ population_2017: 31196
+ growth: 1.74488764228173</description>
+      <Point>
+        <coordinates>-64.5,18.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="39">
+      <name>BRUNEI</name>
+      <description>BRUNEI
+ population_2016: 423196
+ population_2017: 428697
+ growth: 1.29987050917306</description>
+      <Point>
+        <coordinates>114.6667,4.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="37">
+      <name>BULGARIA</name>
+      <description>BULGARIA
+ population_2016: 7131494
+ population_2017: 7084571
+ growth: -0.657968722963242</description>
+      <Point>
+        <coordinates>25,43,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="252">
+      <name>BURKINA FASO</name>
+      <description>BURKINA FASO
+ population_2016: 18646433
+ population_2017: 19193382
+ growth: 2.93326342898934</description>
+      <Point>
+        <coordinates>-2,13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="40">
+      <name>BURUNDI</name>
+      <description>BURUNDI
+ population_2016: 10524117
+ population_2017: 10864245
+ growth: 3.23189109357107</description>
+      <Point>
+        <coordinates>30,-3.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="42">
+      <name>CAMBODIA</name>
+      <description>CAMBODIA
+ population_2016: 15762370
+ population_2017: 16005373
+ growth: 1.54166537138767</description>
+      <Point>
+        <coordinates>105,13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="51">
+      <name>CAMEROON</name>
+      <description>CAMEROON
+ population_2016: 23439189
+ population_2017: 24053727
+ growth: 2.62183985973234</description>
+      <Point>
+        <coordinates>12,6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="41">
+      <name>CANADA</name>
+      <description>CANADA
+ population_2016: 36289822
+ population_2017: 36624199
+ growth: 0.921407109684913</description>
+      <Point>
+        <coordinates>-95,60,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="59">
+      <name>CAPE VERDE</name>
+      <description>CAPE VERDE
+ population_2016: 539560
+ population_2017: 546388
+ growth: 1.26547557268886</description>
+      <Point>
+        <coordinates>-24,16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="49">
+      <name>CAYMAN ISLANDS</name>
+      <description>CAYMAN ISLANDS
+ population_2016: 60765
+ population_2017: 61559
+ growth: 1.30667324940343</description>
+      <Point>
+        <coordinates>-80.5,19.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="57">
+      <name>CENTRAL AFRICAN REPUBLIC</name>
+      <description>CENTRAL AFRICAN REPUBLIC
+ population_2016: 4594621
+ population_2017: 4659080
+ growth: 1.40292311378893</description>
+      <Point>
+        <coordinates>21,7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="43">
+      <name>CHAD</name>
+      <description>CHAD
+ population_2016: 14452543
+ population_2017: 14899994
+ growth: 3.09600185932677</description>
+      <Point>
+        <coordinates>19,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="48">
+      <name>CHILE</name>
+      <description>CHILE
+ population_2016: 17909754
+ population_2017: 18054726
+ growth: 0.809458354369363</description>
+      <Point>
+        <coordinates>-71,-30,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="47">
+      <name>CHINA</name>
+      <description>CHINA
+ population_2016: 1403500365
+ population_2017: 1409517397
+ growth: 0.428716097982629</description>
+      <Point>
+        <coordinates>105,35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="53">
+      <name>COLOMBIA</name>
+      <description>COLOMBIA
+ population_2016: 48653419
+ population_2017: 49065615
+ growth: 0.847208702845736</description>
+      <Point>
+        <coordinates>-72,4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="52">
+      <name>COMOROS</name>
+      <description>COMOROS
+ population_2016: 795601
+ population_2017: 813912
+ growth: 2.30153054106266</description>
+      <Point>
+        <coordinates>44.25,-12.1667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="60">
+      <name>COOK ISLANDS</name>
+      <description>COOK ISLANDS
+ population_2016: 17379
+ population_2017: 17380
+ growth: 0.00575407100522618</description>
+      <Point>
+        <coordinates>-159.7667,-21.2333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="56">
+      <name>COSTA RICA</name>
+      <description>COSTA RICA
+ population_2016: 4857274
+ population_2017: 4905769
+ growth: 0.998399513801362</description>
+      <Point>
+        <coordinates>-84,10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="109">
+      <name>CROATIA</name>
+      <description>CROATIA
+ population_2016: 4213265
+ population_2017: 4189353
+ growth: -0.567540850148285</description>
+      <Point>
+        <coordinates>15.5,45.1667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="58">
+      <name>CUBA</name>
+      <description>CUBA
+ population_2016: 11475982
+ population_2017: 11484636
+ growth: 0.0754096686453432</description>
+      <Point>
+        <coordinates>-80,21.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="61">
+      <name>CYPRUS</name>
+      <description>CYPRUS
+ population_2016: 1170125
+ population_2017: 1179551
+ growth: 0.805554962076704</description>
+      <Point>
+        <coordinates>33,35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="76">
+      <name>CZECH REPUBLIC</name>
+      <description>CZECH REPUBLIC
+ population_2016: 10610947
+ population_2017: 10618303
+ growth: 0.0693246323820063</description>
+      <Point>
+        <coordinates>15.5,49.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="62">
+      <name>DENMARK</name>
+      <description>DENMARK
+ population_2016: 5711870
+ population_2017: 5733551
+ growth: 0.379577966585365</description>
+      <Point>
+        <coordinates>10,56,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="63">
+      <name>DJIBOUTI</name>
+      <description>DJIBOUTI
+ population_2016: 942333
+ population_2017: 956985
+ growth: 1.55486436323464</description>
+      <Point>
+        <coordinates>43,11.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="64">
+      <name>DOMINICA</name>
+      <description>DOMINICA
+ population_2016: 73543
+ population_2017: 73925
+ growth: 0.51942401044287</description>
+      <Point>
+        <coordinates>-61.3333,15.4167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="66">
+      <name>DOMINICAN REPUBLIC</name>
+      <description>DOMINICAN REPUBLIC
+ population_2016: 10648791
+ population_2017: 10766998
+ growth: 1.11005089685767</description>
+      <Point>
+        <coordinates>-70.6667,19,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="67">
+      <name>ECUADOR</name>
+      <description>ECUADOR
+ population_2016: 16385068
+ population_2017: 16624858
+ growth: 1.46346661484713</description>
+      <Point>
+        <coordinates>-77.5,-2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="68">
+      <name>EGYPT</name>
+      <description>EGYPT
+ population_2016: 95688681
+ population_2017: 97553151
+ growth: 1.94847497166357</description>
+      <Point>
+        <coordinates>30,27,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="73">
+      <name>EL SALVADOR</name>
+      <description>EL SALVADOR
+ population_2016: 6344722
+ population_2017: 6377853
+ growth: 0.522182059355791</description>
+      <Point>
+        <coordinates>-88.9167,13.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="70">
+      <name>EQUATORIAL GUINEA</name>
+      <description>EQUATORIAL GUINEA
+ population_2016: 1221490
+ population_2017: 1267689
+ growth: 3.78218405390138</description>
+      <Point>
+        <coordinates>10,2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="72">
+      <name>ERITREA</name>
+      <description>ERITREA
+ population_2016: 4954645
+ population_2017: 5068831
+ growth: 2.30462525569441</description>
+      <Point>
+        <coordinates>39,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="71">
+      <name>ESTONIA</name>
+      <description>ESTONIA
+ population_2016: 1312442
+ population_2017: 1309632
+ growth: -0.214104699483864</description>
+      <Point>
+        <coordinates>26,59,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="74">
+      <name>ETHIOPIA</name>
+      <description>ETHIOPIA
+ population_2016: 102403196
+ population_2017: 104957438
+ growth: 2.49429910371157</description>
+      <Point>
+        <coordinates>38,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="82">
+      <name>FAROE ISLANDS</name>
+      <description>FAROE ISLANDS
+ population_2016: 49117
+ population_2017: 49290
+ growth: 0.352220208888987</description>
+      <Point>
+        <coordinates>-7,62,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="79">
+      <name>FIJI</name>
+      <description>FIJI
+ population_2016: 898760
+ population_2017: 905502
+ growth: 0.750144643731354</description>
+      <Point>
+        <coordinates>175,-18,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="78">
+      <name>FINLAND</name>
+      <description>FINLAND
+ population_2016: 5503132
+ population_2017: 5523231
+ growth: 0.365228382673721</description>
+      <Point>
+        <coordinates>26,64,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="85">
+      <name>FRANCE</name>
+      <description>FRANCE
+ population_2016: 64720690
+ population_2017: 64979548
+ growth: 0.399961743300326</description>
+      <Point>
+        <coordinates>2,46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="77">
+      <name>FRENCH GUIANA</name>
+      <description>FRENCH GUIANA
+ population_2016: 275713
+ population_2017: 282731
+ growth: 2.5454004707794</description>
+      <Point>
+        <coordinates>-53,4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="83">
+      <name>FRENCH POLYNESIA</name>
+      <description>FRENCH POLYNESIA
+ population_2016: 280208
+ population_2017: 283007
+ growth: 0.998900816536286</description>
+      <Point>
+        <coordinates>-140,-15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="88">
+      <name>GABON</name>
+      <description>GABON
+ population_2016: 1979786
+ population_2017: 2025137
+ growth: 2.29070212639144</description>
+      <Point>
+        <coordinates>11.75,-1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="89">
+      <name>GEORGIA</name>
+      <description>GEORGIA
+ population_2016: 3925405
+ population_2017: 3912061
+ growth: -0.339939445738724</description>
+      <Point>
+        <coordinates>43.5,42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="95">
+      <name>GERMANY</name>
+      <description>GERMANY
+ population_2016: 81914672
+ population_2017: 82114224
+ growth: 0.243609594139627</description>
+      <Point>
+        <coordinates>9,51,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="90">
+      <name>GHANA</name>
+      <description>GHANA
+ population_2016: 28206728
+ population_2017: 28833629
+ growth: 2.22252293849894</description>
+      <Point>
+        <coordinates>-2,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="91">
+      <name>GIBRALTAR</name>
+      <description>GIBRALTAR
+ population_2016: 34408
+ population_2017: 34571
+ growth: 0.473727040223193</description>
+      <Point>
+        <coordinates>-5.3667,36.1833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="99">
+      <name>GREECE</name>
+      <description>GREECE
+ population_2016: 11183716
+ population_2017: 11159773
+ growth: -0.214088054453454</description>
+      <Point>
+        <coordinates>22,39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="94">
+      <name>GREENLAND</name>
+      <description>GREENLAND
+ population_2016: 56412
+ population_2017: 56480
+ growth: 0.120541728710211</description>
+      <Point>
+        <coordinates>-40,72,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="92">
+      <name>GRENADA</name>
+      <description>GRENADA
+ population_2016: 107317
+ population_2017: 107825
+ growth: 0.473363959111794</description>
+      <Point>
+        <coordinates>-61.6667,12.1167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="97">
+      <name>GUADELOUPE</name>
+      <description>GUADELOUPE
+ population_2016: 449975
+ population_2017: 449568
+ growth: -0.090449469414966</description>
+      <Point>
+        <coordinates>-61.5833,16.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="98">
+      <name>GUAM</name>
+      <description>GUAM
+ population_2016: 162896
+ population_2017: 164229
+ growth: 0.818313525193992</description>
+      <Point>
+        <coordinates>144.7833,13.4667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="100">
+      <name>GUATEMALA</name>
+      <description>GUATEMALA
+ population_2016: 16582469
+ population_2017: 16913503
+ growth: 1.99628897240816</description>
+      <Point>
+        <coordinates>-90.25,15.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="101">
+      <name>GUINEA</name>
+      <description>GUINEA
+ population_2016: 12395924
+ population_2017: 12717176
+ growth: 2.5915938174516</description>
+      <Point>
+        <coordinates>-10,11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="198">
+      <name>GUINEA-BISSAU</name>
+      <description>GUINEA-BISSAU
+ population_2016: 1815698
+ population_2017: 1861283
+ growth: 2.51060473713141</description>
+      <Point>
+        <coordinates>-15,12,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="102">
+      <name>GUYANA</name>
+      <description>GUYANA
+ population_2016: 773303
+ population_2017: 777859
+ growth: 0.589161040368391</description>
+      <Point>
+        <coordinates>-59,5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="104">
+      <name>HAITI</name>
+      <description>HAITI
+ population_2016: 10847334
+ population_2017: 10981229
+ growth: 1.23435859908065</description>
+      <Point>
+        <coordinates>-72.4167,19,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="107">
+      <name>HONDURAS</name>
+      <description>HONDURAS
+ population_2016: 9112867
+ population_2017: 9265067
+ growth: 1.67016593131448</description>
+      <Point>
+        <coordinates>-86.5,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="105">
+      <name>HONG KONG</name>
+      <description>HONG KONG
+ population_2016: 7302843
+ population_2017: 7364883
+ growth: 0.849532161652666</description>
+      <Point>
+        <coordinates>114.1667,22.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="110">
+      <name>HUNGARY</name>
+      <description>HUNGARY
+ population_2016: 9753281
+ population_2017: 9721559
+ growth: -0.325244397244373</description>
+      <Point>
+        <coordinates>20,47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="111">
+      <name>ICELAND</name>
+      <description>ICELAND
+ population_2016: 332474
+ population_2017: 335025
+ growth: 0.767278042794328</description>
+      <Point>
+        <coordinates>-18,65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="114">
+      <name>INDIA</name>
+      <description>INDIA
+ population_2016: 1324171354
+ population_2017: 1339180127
+ growth: 1.13344643460698</description>
+      <Point>
+        <coordinates>77,20,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="112">
+      <name>INDONESIA</name>
+      <description>INDONESIA
+ population_2016: 261115456
+ population_2017: 263991379
+ growth: 1.10139899186972</description>
+      <Point>
+        <coordinates>120,-5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="117">
+      <name>IRAN</name>
+      <description>IRAN
+ population_2016: 80277428
+ population_2017: 81162788
+ growth: 1.10287539356642</description>
+      <Point>
+        <coordinates>53,32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="121">
+      <name>IRAQ</name>
+      <description>IRAQ
+ population_2016: 37202572
+ population_2017: 38274618
+ growth: 2.88164484971631</description>
+      <Point>
+        <coordinates>44,33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="69">
+      <name>IRELAND</name>
+      <description>IRELAND
+ population_2016: 4726078
+ population_2017: 4761657
+ growth: 0.7528229538319</description>
+      <Point>
+        <coordinates>-8,53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="118">
+      <name>ISRAEL</name>
+      <description>ISRAEL
+ population_2016: 8191828
+ population_2017: 8321570
+ growth: 1.58379790200673</description>
+      <Point>
+        <coordinates>34.75,31.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="119">
+      <name>ITALY</name>
+      <description>ITALY
+ population_2016: 59429938
+ population_2017: 59359900
+ growth: -0.117849693869776</description>
+      <Point>
+        <coordinates>12.8333,42.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="124">
+      <name>JAMAICA</name>
+      <description>JAMAICA
+ population_2016: 2881355
+ population_2017: 2890299
+ growth: 0.310409512191323</description>
+      <Point>
+        <coordinates>-77.5,18.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="122">
+      <name>JAPAN</name>
+      <description>JAPAN
+ population_2016: 127748513
+ population_2017: 127484450
+ growth: -0.206705341454738</description>
+      <Point>
+        <coordinates>138,36,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="126">
+      <name>JORDAN</name>
+      <description>JORDAN
+ population_2016: 9455802
+ population_2017: 9702353
+ growth: 2.60740442746157</description>
+      <Point>
+        <coordinates>36,31,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="138">
+      <name>KAZAKHSTAN</name>
+      <description>KAZAKHSTAN
+ population_2016: 17987736
+ population_2017: 18204499
+ growth: 1.20505993639222</description>
+      <Point>
+        <coordinates>68,48,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="129">
+      <name>KENYA</name>
+      <description>KENYA
+ population_2016: 48461567
+ population_2017: 49699862
+ growth: 2.55521040002689</description>
+      <Point>
+        <coordinates>38,1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="133">
+      <name>KIRIBATI</name>
+      <description>KIRIBATI
+ population_2016: 114395
+ population_2017: 116398
+ growth: 1.75095065343764</description>
+      <Point>
+        <coordinates>173,1.4167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="136">
+      <name>KUWAIT</name>
+      <description>KUWAIT
+ population_2016: 4052584
+ population_2017: 4136528
+ growth: 2.0713697729646</description>
+      <Point>
+        <coordinates>47.6581,29.3375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="130">
+      <name>KYRGYZSTAN</name>
+      <description>KYRGYZSTAN
+ population_2016: 5955734
+ population_2017: 6045117
+ growth: 1.50078898755384</description>
+      <Point>
+        <coordinates>75,41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="139">
+      <name>LAOS</name>
+      <description>LAOS
+ population_2016: 6758353
+ population_2017: 6858160
+ growth: 1.47679471610909</description>
+      <Point>
+        <coordinates>105,18,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="141">
+      <name>LATVIA</name>
+      <description>LATVIA
+ population_2016: 1970530
+ population_2017: 1949670
+ growth: -1.05859844813324</description>
+      <Point>
+        <coordinates>25,57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="140">
+      <name>LEBANON</name>
+      <description>LEBANON
+ population_2016: 6006668
+ population_2017: 6082357
+ growth: 1.26008296113587</description>
+      <Point>
+        <coordinates>35.8333,33.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="147">
+      <name>LESOTHO</name>
+      <description>LESOTHO
+ population_2016: 2203821
+ population_2017: 2233339
+ growth: 1.33940097675809</description>
+      <Point>
+        <coordinates>28.5,-29.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="143">
+      <name>LIBERIA</name>
+      <description>LIBERIA
+ population_2016: 4613823
+ population_2017: 4731906
+ growth: 2.55933094962681</description>
+      <Point>
+        <coordinates>-9.5,6.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="149">
+      <name>LIBYA</name>
+      <description>LIBYA
+ population_2016: 6293253
+ population_2017: 6374616
+ growth: 1.29286078280979</description>
+      <Point>
+        <coordinates>17,25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="146">
+      <name>LIECHTENSTEIN</name>
+      <description>LIECHTENSTEIN
+ population_2016: 37666
+ population_2017: 37922
+ growth: 0.679658047045084</description>
+      <Point>
+        <coordinates>9.5333,47.1667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="142">
+      <name>LITHUANIA</name>
+      <description>LITHUANIA
+ population_2016: 2908249
+ population_2017: 2890297
+ growth: -0.617278644297647</description>
+      <Point>
+        <coordinates>24,56,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="148">
+      <name>LUXEMBOURG</name>
+      <description>LUXEMBOURG
+ population_2016: 575747
+ population_2017: 583455
+ growth: 1.33878248605723</description>
+      <Point>
+        <coordinates>6.1667,49.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="150">
+      <name>MADAGASCAR</name>
+      <description>MADAGASCAR
+ population_2016: 24894551
+ population_2017: 25570895
+ growth: 2.71683550348025</description>
+      <Point>
+        <coordinates>47,-20,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="157">
+      <name>MALAWI</name>
+      <description>MALAWI
+ population_2016: 18091575
+ population_2017: 18622104
+ growth: 2.93246442059356</description>
+      <Point>
+        <coordinates>34,-13.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="170">
+      <name>MALAYSIA</name>
+      <description>MALAYSIA
+ population_2016: 31187265
+ population_2017: 31624264
+ growth: 1.4012097566106</description>
+      <Point>
+        <coordinates>112.5,2.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="168">
+      <name>MALDIVES</name>
+      <description>MALDIVES
+ population_2016: 427756
+ population_2017: 436330
+ growth: 2.00441373119256</description>
+      <Point>
+        <coordinates>73,3.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="160">
+      <name>MALI</name>
+      <description>MALI
+ population_2016: 17994837
+ population_2017: 18541980
+ growth: 3.04055546599282</description>
+      <Point>
+        <coordinates>-4,17,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="166">
+      <name>MALTA</name>
+      <description>MALTA
+ population_2016: 429362
+ population_2017: 430835
+ growth: 0.343067155453913</description>
+      <Point>
+        <coordinates>14.5833,35.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="202">
+      <name>MARSHALL ISLANDS</name>
+      <description>MARSHALL ISLANDS
+ population_2016: 53066
+ population_2017: 53127
+ growth: 0.114951192854185</description>
+      <Point>
+        <coordinates>168,9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="151">
+      <name>MARTINIQUE</name>
+      <description>MARTINIQUE
+ population_2016: 385103
+ population_2017: 384896
+ growth: -0.0537518534002634</description>
+      <Point>
+        <coordinates>-61,14.6667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="165">
+      <name>MAURITANIA</name>
+      <description>MAURITANIA
+ population_2016: 4301018
+ population_2017: 4420184
+ growth: 2.77064639115669</description>
+      <Point>
+        <coordinates>-12,20,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="163">
+      <name>MAURITIUS</name>
+      <description>MAURITIUS
+ population_2016: 1262132
+ population_2017: 1265138
+ growth: 0.238168432461894</description>
+      <Point>
+        <coordinates>57.55,-20.2833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="154">
+      <name>MAYOTTE</name>
+      <description>MAYOTTE
+ population_2016: 246489
+ population_2017: 253045
+ growth: 2.65975357926722</description>
+      <Point>
+        <coordinates>45.1667,-12.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="169">
+      <name>MEXICO</name>
+      <description>MEXICO
+ population_2016: 127540423
+ population_2017: 129163276
+ growth: 1.27242246954129</description>
+      <Point>
+        <coordinates>-102,23,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="153">
+      <name>MOLDOVA</name>
+      <description>MOLDOVA
+ population_2016: 4059608
+ population_2017: 4051212
+ growth: -0.206817998190956</description>
+      <Point>
+        <coordinates>29,47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="161">
+      <name>MONACO</name>
+      <description>MONACO
+ population_2016: 38499
+ population_2017: 38695
+ growth: 0.509104132574878</description>
+      <Point>
+        <coordinates>7.4,43.7333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="155">
+      <name>MONGOLIA</name>
+      <description>MONGOLIA
+ population_2016: 3027398
+ population_2017: 3075647
+ growth: 1.59374485944697</description>
+      <Point>
+        <coordinates>105,46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="158">
+      <name>MONTENEGRO</name>
+      <description>MONTENEGRO
+ population_2016: 628615
+ population_2017: 628960
+ growth: 0.0548825592771474</description>
+      <Point>
+        <coordinates>19,42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="156">
+      <name>MONTSERRAT</name>
+      <description>MONTSERRAT
+ population_2016: 5152
+ population_2017: 5177
+ growth: 0.485248447204967</description>
+      <Point>
+        <coordinates>-62.2,16.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="162">
+      <name>MOROCCO</name>
+      <description>MOROCCO
+ population_2016: 35276786
+ population_2017: 35739580
+ growth: 1.31189388965309</description>
+      <Point>
+        <coordinates>-5,32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="171">
+      <name>MOZAMBIQUE</name>
+      <description>MOZAMBIQUE
+ population_2016: 28829476
+ population_2017: 29668834
+ growth: 2.91145770391388</description>
+      <Point>
+        <coordinates>35,-18.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="1">
+      <name>MYANMAR</name>
+      <description>MYANMAR
+ population_2016: 52885223
+ population_2017: 53370609
+ growth: 0.917810254860796</description>
+      <Point>
+        <coordinates>98,22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="261">
+      <name>NAMIBIA</name>
+      <description>NAMIBIA
+ population_2016: 2479713
+ population_2017: 2533794
+ growth: 2.18093787466533</description>
+      <Point>
+        <coordinates>17,-22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="181">
+      <name>NAURU</name>
+      <description>NAURU
+ population_2016: 11347
+ population_2017: 11359
+ growth: 0.105754825063897</description>
+      <Point>
+        <coordinates>166.9167,-0.5333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="180">
+      <name>NEPAL</name>
+      <description>NEPAL
+ population_2016: 28982771
+ population_2017: 29304998
+ growth: 1.11178810335284</description>
+      <Point>
+        <coordinates>84,28,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="178">
+      <name>NETHERLANDS</name>
+      <description>NETHERLANDS
+ population_2016: 16987330
+ population_2017: 17035938
+ growth: 0.286142672215117</description>
+      <Point>
+        <coordinates>5.75,52.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="172">
+      <name>NEW CALEDONIA</name>
+      <description>NEW CALEDONIA
+ population_2016: 272677
+ population_2017: 276255
+ growth: 1.3121752109639</description>
+      <Point>
+        <coordinates>165.5,-21.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="185">
+      <name>NEW ZEALAND</name>
+      <description>NEW ZEALAND
+ population_2016: 4660833
+ population_2017: 4705818
+ growth: 0.965170818177774</description>
+      <Point>
+        <coordinates>174,-41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="184">
+      <name>NICARAGUA</name>
+      <description>NICARAGUA
+ population_2016: 6149928
+ population_2017: 6217581
+ growth: 1.10006165925844</description>
+      <Point>
+        <coordinates>-85,13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="175">
+      <name>NIGER</name>
+      <description>NIGER
+ population_2016: 20672987
+ population_2017: 21477348
+ growth: 3.8908794360486</description>
+      <Point>
+        <coordinates>8,16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="177">
+      <name>NIGERIA</name>
+      <description>NIGERIA
+ population_2016: 185989640
+ population_2017: 190886311
+ growth: 2.63276545940947</description>
+      <Point>
+        <coordinates>8,10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="173">
+      <name>NIUE</name>
+      <description>NIUE
+ population_2016: 1624
+ population_2017: 1618
+ growth: -0.369458128078815</description>
+      <Point>
+        <coordinates>-169.8667,-19.0333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="54">
+      <name>NORTHERN MARIANA ISLANDS</name>
+      <description>NORTHERN MARIANA ISLANDS
+ population_2016: 55023
+ population_2017: 55144
+ growth: 0.21990803845664</description>
+      <Point>
+        <coordinates>145.75,15.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="179">
+      <name>NORWAY</name>
+      <description>NORWAY
+ population_2016: 5254694
+ population_2017: 5305383
+ growth: 0.964642279835903</description>
+      <Point>
+        <coordinates>10,62,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="167">
+      <name>OMAN</name>
+      <description>OMAN
+ population_2016: 4424762
+ population_2017: 4636262
+ growth: 4.77991810632978</description>
+      <Point>
+        <coordinates>57,21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="192">
+      <name>PAKISTAN</name>
+      <description>PAKISTAN
+ population_2016: 193203476
+ population_2017: 197015955
+ growth: 1.97329731272538</description>
+      <Point>
+        <coordinates>70,30,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="197">
+      <name>PALAU</name>
+      <description>PALAU
+ population_2016: 21503
+ population_2017: 21729
+ growth: 1.05101613728318</description>
+      <Point>
+        <coordinates>134.5,7.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="194">
+      <name>PANAMA</name>
+      <description>PANAMA
+ population_2016: 4034119
+ population_2017: 4098587
+ growth: 1.59806887203873</description>
+      <Point>
+        <coordinates>-80,9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="196">
+      <name>PAPUA NEW GUINEA</name>
+      <description>PAPUA NEW GUINEA
+ population_2016: 8084991
+ population_2017: 8251162
+ growth: 2.05530222606309</description>
+      <Point>
+        <coordinates>147,-6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="187">
+      <name>PARAGUAY</name>
+      <description>PARAGUAY
+ population_2016: 6725308
+ population_2017: 6811297
+ growth: 1.27858828175602</description>
+      <Point>
+        <coordinates>-58,-23,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="189">
+      <name>PERU</name>
+      <description>PERU
+ population_2016: 31773839
+ population_2017: 32165485
+ growth: 1.23260522595334</description>
+      <Point>
+        <coordinates>-76,-10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="205">
+      <name>PHILIPPINES</name>
+      <description>PHILIPPINES
+ population_2016: 103320222
+ population_2017: 104918090
+ growth: 1.54652009942449</description>
+      <Point>
+        <coordinates>122,13,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="193">
+      <name>POLAND</name>
+      <description>POLAND
+ population_2016: 38224410
+ population_2017: 38170712
+ growth: -0.140480912589624</description>
+      <Point>
+        <coordinates>20,52,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="195">
+      <name>PORTUGAL</name>
+      <description>PORTUGAL
+ population_2016: 10371627
+ population_2017: 10329506
+ growth: -0.406117574417209</description>
+      <Point>
+        <coordinates>-8,39.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="206">
+      <name>PUERTO RICO</name>
+      <description>PUERTO RICO
+ population_2016: 3667903
+ population_2017: 3663131
+ growth: -0.130101586655917</description>
+      <Point>
+        <coordinates>-66.5,18.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="199">
+      <name>QATAR</name>
+      <description>QATAR
+ population_2016: 2569804
+ population_2017: 2639211
+ growth: 2.70086745915252</description>
+      <Point>
+        <coordinates>51.25,25.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="204">
+      <name>ROMANIA</name>
+      <description>ROMANIA
+ population_2016: 19778083
+ population_2017: 19679306
+ growth: -0.499426562220417</description>
+      <Point>
+        <coordinates>25,46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="207">
+      <name>RUSSIA</name>
+      <description>RUSSIA
+ population_2016: 146864513
+ population_2017: 143989754
+ growth: -1.95742248503558</description>
+      <Point>
+        <coordinates>100,60,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="208">
+      <name>RWANDA</name>
+      <description>RWANDA
+ population_2016: 11917508
+ population_2017: 12208407
+ growth: 2.44093815586279</description>
+      <Point>
+        <coordinates>30,-2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="211">
+      <name>SAINT KITTS AND NEVIS</name>
+      <description>SAINT KITTS AND NEVIS
+ population_2016: 54821
+ population_2017: 55345
+ growth: 0.9558380912424</description>
+      <Point>
+        <coordinates>-62.75,17.3333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="223">
+      <name>SAINT LUCIA</name>
+      <description>SAINT LUCIA
+ population_2016: 178015
+ population_2017: 178844
+ growth: 0.465691093447185</description>
+      <Point>
+        <coordinates>-61.1333,13.8833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="210">
+      <name>SAINT PIERRE AND MIQUELON</name>
+      <description>SAINT PIERRE AND MIQUELON
+ population_2016: 6305
+ population_2017: 6320
+ growth: 0.237906423473433</description>
+      <Point>
+        <coordinates>-56.3333,46.8333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="255">
+      <name>SAINT VINCENT AND THE GRENADINES</name>
+      <description>SAINT VINCENT AND THE GRENADINES
+ population_2016: 109643
+ population_2017: 109897
+ growth: 0.231660935946665</description>
+      <Point>
+        <coordinates>-61.2,13.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="266">
+      <name>SAMOA</name>
+      <description>SAMOA
+ population_2016: 195125
+ population_2017: 196440
+ growth: 0.673926969891103</description>
+      <Point>
+        <coordinates>-172.3333,-13.5833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="219">
+      <name>SAN MARINO</name>
+      <description>SAN MARINO
+ population_2016: 33203
+ population_2017: 33400
+ growth: 0.593319880733678</description>
+      <Point>
+        <coordinates>12.4167,43.7667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="239">
+      <name>SAO TOME AND PRINCIPE</name>
+      <description>SAO TOME AND PRINCIPE
+ population_2016: 199910
+ population_2017: 204327
+ growth: 2.20949427242259</description>
+      <Point>
+        <coordinates>7,1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="209">
+      <name>SAUDI ARABIA</name>
+      <description>SAUDI ARABIA
+ population_2016: 32275687
+ population_2017: 32938213
+ growth: 2.05270921111609</description>
+      <Point>
+        <coordinates>45,25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="214">
+      <name>SENEGAL</name>
+      <description>SENEGAL
+ population_2016: 15411614
+ population_2017: 15850567
+ growth: 2.84819617205569</description>
+      <Point>
+        <coordinates>-14,14,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="201">
+      <name>SERBIA</name>
+      <description>SERBIA
+ population_2016: 8820083
+ population_2017: 8790574
+ growth: -0.334566012587412</description>
+      <Point>
+        <coordinates>21,44,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="212">
+      <name>SEYCHELLES</name>
+      <description>SEYCHELLES
+ population_2016: 94228
+ population_2017: 94737
+ growth: 0.540179139958408</description>
+      <Point>
+        <coordinates>55.6667,-4.5833,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="218">
+      <name>SIERRA LEONE</name>
+      <description>SIERRA LEONE
+ population_2016: 7396190
+ population_2017: 7557212
+ growth: 2.1770938821204</description>
+      <Point>
+        <coordinates>-11.5,8.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="220">
+      <name>SINGAPORE</name>
+      <description>SINGAPORE
+ population_2016: 5622455
+ population_2017: 5708844
+ growth: 1.53649962516373</description>
+      <Point>
+        <coordinates>103.8,1.3667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="144">
+      <name>SLOVAKIA</name>
+      <description>SLOVAKIA
+ population_2016: 5444218
+ population_2017: 5447662
+ growth: 0.0632597739473217</description>
+      <Point>
+        <coordinates>19.5,48.6667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="216">
+      <name>SLOVENIA</name>
+      <description>SLOVENIA
+ population_2016: 2077862
+ population_2017: 2079976
+ growth: 0.101739191534378</description>
+      <Point>
+        <coordinates>15,46,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="32">
+      <name>SOLOMON ISLANDS</name>
+      <description>SOLOMON ISLANDS
+ population_2016: 599419
+ population_2017: 611343
+ growth: 1.98925959971239</description>
+      <Point>
+        <coordinates>159,-8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="221">
+      <name>SOMALIA</name>
+      <description>SOMALIA
+ population_2016: 14317996
+ population_2017: 14742523
+ growth: 2.96498895515824</description>
+      <Point>
+        <coordinates>49,10,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="213">
+      <name>SOUTH AFRICA</name>
+      <description>SOUTH AFRICA
+ population_2016: 56015473
+ population_2017: 56717156
+ growth: 1.25265924292026</description>
+      <Point>
+        <coordinates>24,-29,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="222">
+      <name>SPAIN</name>
+      <description>SPAIN
+ population_2016: 46347576
+ population_2017: 46354321
+ growth: 0.0145530804027461</description>
+      <Point>
+        <coordinates>-4,40,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="44">
+      <name>SRI LANKA</name>
+      <description>SRI LANKA
+ population_2016: 20798492
+ population_2017: 20876917
+ growth: 0.377070606849772</description>
+      <Point>
+        <coordinates>81,7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="224">
+      <name>SUDAN</name>
+      <description>SUDAN
+ population_2016: 39578828
+ population_2017: 40533330
+ growth: 2.411647964917</description>
+      <Point>
+        <coordinates>30,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="182">
+      <name>SURINAME</name>
+      <description>SURINAME
+ population_2016: 558368
+ population_2017: 563402
+ growth: 0.901555963092449</description>
+      <Point>
+        <coordinates>-56,4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="226">
+      <name>SWEDEN</name>
+      <description>SWEDEN
+ population_2016: 9837533
+ population_2017: 9910701
+ growth: 0.743763705799005</description>
+      <Point>
+        <coordinates>15,62,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="229">
+      <name>SWITZERLAND</name>
+      <description>SWITZERLAND
+ population_2016: 8401739
+ population_2017: 8476005
+ growth: 0.88393605181023</description>
+      <Point>
+        <coordinates>8,47,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="228">
+      <name>SYRIA</name>
+      <description>SYRIA
+ population_2016: 18430453
+ population_2017: 18269868
+ growth: -0.871302512206296</description>
+      <Point>
+        <coordinates>38,35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="234">
+      <name>TAJIKISTAN</name>
+      <description>TAJIKISTAN
+ population_2016: 8734951
+ population_2017: 8921343
+ growth: 2.13386428842017</description>
+      <Point>
+        <coordinates>71,39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="246">
+      <name>TANZANIA</name>
+      <description>TANZANIA
+ population_2016: 55572201
+ population_2017: 57310019
+ growth: 3.12713545392957</description>
+      <Point>
+        <coordinates>35,-6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="233">
+      <name>THAILAND</name>
+      <description>THAILAND
+ population_2016: 68863514
+ population_2017: 69037513
+ growth: 0.252672264154286</description>
+      <Point>
+        <coordinates>100,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="238">
+      <name>TOGO</name>
+      <description>TOGO
+ population_2016: 7606374
+ population_2017: 7797694
+ growth: 2.51525891311681</description>
+      <Point>
+        <coordinates>1.1667,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="236">
+      <name>TOKELAU</name>
+      <description>TOKELAU
+ population_2016: 1282
+ population_2017: 1300
+ growth: 1.40405616224648</description>
+      <Point>
+        <coordinates>-172,-9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="237">
+      <name>TONGA</name>
+      <description>TONGA
+ population_2016: 107122
+ population_2017: 108020
+ growth: 0.838296521722892</description>
+      <Point>
+        <coordinates>-175,-20,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="231">
+      <name>TRINIDAD AND TOBAGO</name>
+      <description>TRINIDAD AND TOBAGO
+ population_2016: 1364962
+ population_2017: 1369125
+ growth: 0.304990175550679</description>
+      <Point>
+        <coordinates>-61,11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="240">
+      <name>TUNISIA</name>
+      <description>TUNISIA
+ population_2016: 11403248
+ population_2017: 11532127
+ growth: 1.13019553727149</description>
+      <Point>
+        <coordinates>9,34,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="242">
+      <name>TURKEY</name>
+      <description>TURKEY
+ population_2016: 79512426
+ population_2017: 80745020
+ growth: 1.55019040671707</description>
+      <Point>
+        <coordinates>35,39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="245">
+      <name>TURKMENISTAN</name>
+      <description>TURKMENISTAN
+ population_2016: 5662544
+ population_2017: 5758075
+ growth: 1.68706856847383</description>
+      <Point>
+        <coordinates>60,40,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="235">
+      <name>TURKS AND CAICOS ISLANDS</name>
+      <description>TURKS AND CAICOS ISLANDS
+ population_2016: 34900
+ population_2017: 35446
+ growth: 1.56446991404011</description>
+      <Point>
+        <coordinates>-71.5833,21.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="243">
+      <name>TUVALU</name>
+      <description>TUVALU
+ population_2016: 11097
+ population_2017: 11192
+ growth: 0.856087230783098</description>
+      <Point>
+        <coordinates>178,-8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="248">
+      <name>UGANDA</name>
+      <description>UGANDA
+ population_2016: 41487965
+ population_2017: 42862958
+ growth: 3.31419726178424</description>
+      <Point>
+        <coordinates>32,1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="250">
+      <name>UKRAINE</name>
+      <description>UKRAINE
+ population_2016: 44438625
+ population_2017: 44222947
+ growth: -0.485339049081734</description>
+      <Point>
+        <coordinates>32,49,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="4">
+      <name>UNITED ARAB EMIRATES</name>
+      <description>UNITED ARAB EMIRATES
+ population_2016: 9269612
+ population_2017: 9400145
+ growth: 1.40818191743084</description>
+      <Point>
+        <coordinates>54,24,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="249">
+      <name>UNITED KINGDOM</name>
+      <description>UNITED KINGDOM
+ population_2016: 65788574
+ population_2017: 66181585
+ growth: 0.597384889357833</description>
+      <Point>
+        <coordinates>-2,54,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="251">
+      <name>UNITED STATES</name>
+      <description>UNITED STATES
+ population_2016: 322179605
+ population_2017: 324459463
+ growth: 0.707635730076706</description>
+      <Point>
+        <coordinates>-97,38,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="253">
+      <name>URUGUAY</name>
+      <description>URUGUAY
+ population_2016: 3444006
+ population_2017: 3456750
+ growth: 0.370034198546687</description>
+      <Point>
+        <coordinates>-56,-33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="254">
+      <name>UZBEKISTAN</name>
+      <description>UZBEKISTAN
+ population_2016: 31446795
+ population_2017: 31910641
+ growth: 1.47501836037662</description>
+      <Point>
+        <coordinates>64,41,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="176">
+      <name>VANUATU</name>
+      <description>VANUATU
+ population_2016: 270402
+ population_2017: 276244
+ growth: 2.16048697864661</description>
+      <Point>
+        <coordinates>167,-16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="256">
+      <name>VENEZUELA</name>
+      <description>VENEZUELA
+ population_2016: 31568179
+ population_2017: 31977065
+ growth: 1.29524734385218</description>
+      <Point>
+        <coordinates>-66,8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="258">
+      <name>VIETNAM</name>
+      <description>VIETNAM
+ population_2016: 94569072
+ population_2017: 95540800
+ growth: 1.02753255313746</description>
+      <Point>
+        <coordinates>106,16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="263">
+      <name>WALLIS AND FUTUNA</name>
+      <description>WALLIS AND FUTUNA
+ population_2016: 11899
+ population_2017: 11773
+ growth: -1.05891251365661</description>
+      <Point>
+        <coordinates>-176.2,-13.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="264">
+      <name>WESTERN SAHARA</name>
+      <description>WESTERN SAHARA
+ population_2016: 538755
+ population_2017: 552628
+ growth: 2.57501090477119</description>
+      <Point>
+        <coordinates>-13,24.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="268">
+      <name>YEMEN</name>
+      <description>YEMEN
+ population_2016: 27584213
+ population_2017: 28250420
+ growth: 2.41517494082575</description>
+      <Point>
+        <coordinates>48,15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="269">
+      <name>ZAMBIA</name>
+      <description>ZAMBIA
+ population_2016: 16591390
+ population_2017: 17094130
+ growth: 3.03012586648859</description>
+      <Point>
+        <coordinates>30,-15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="270">
+      <name>ZIMBABWE</name>
+      <description>ZIMBABWE
+ population_2016: 16150362
+ population_2017: 16529904
+ growth: 2.35005258705656</description>
+      <Point>
+        <coordinates>30,-20,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
