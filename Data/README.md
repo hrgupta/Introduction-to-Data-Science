@@ -1,6 +1,6 @@
 # Data
 
-The description for all the files contained in this folder is as below:
+The description for all the files contained in this folder is as below :
 
 * Homework 7 requires **aesop-fables.txt**.
 
